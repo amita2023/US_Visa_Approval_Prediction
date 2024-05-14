@@ -5,6 +5,7 @@ import sys
 try:
     a = 1/"10"
 except Exception as e:
+    logging.info(e)
     raise USvisaException(e, sys) from e
 
-#logging.info("Welcome to our custom logs")
+
