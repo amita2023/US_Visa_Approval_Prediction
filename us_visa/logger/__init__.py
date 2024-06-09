@@ -3,7 +3,7 @@ import sys
 import os
 
 # Append the directory containing from_root.py to sys.path
-sys.path.append('/Users/amita/anaconda3/envs/visa/lib/python3.8/site-packages')
+sys.path.append('/Users/amita/anaconda3/envs/usvisa/lib/python3.8/site-packages')
 
 from from_root import from_root
 from datetime import datetime

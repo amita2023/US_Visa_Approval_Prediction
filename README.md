@@ -29,3 +29,16 @@ The goal of this project is to build a classification model:
 - The Dataset is part of Office of Foreign Labor Certification (OFLC)
 -  The data consists of 25480 Rows and 12 Columns
 https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+
+
+
+
+
+
+# Workflow
+1.constant
+2.config_entity
+3.artifact_entity
+4.conponent
+5.pipeline
+6.app.py / demo.py

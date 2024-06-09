@@ -1,5 +1,6 @@
 import os
 import sys
+sys.path.append('/Users/amita/Projects/US_Visa_Approval_Prediction/')
 
 import numpy as np
 import dill
