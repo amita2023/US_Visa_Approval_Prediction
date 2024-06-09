@@ -6,7 +6,7 @@ from us_visa.logger import logging
 
 from us_visa.components.data_ingestion import DataIngestion
 from us_visa.components.data_validation import DataValidation
-from us_visa.components.data_transformation import DataTransformations
+from us_visa.components.data_transformation import DataTransformation
 
 from us_visa.entity.config_entity import (DataIngestionConfig,DataValidationConfig,DataTransformationConfig)
                                           
